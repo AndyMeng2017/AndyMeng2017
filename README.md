@@ -2,8 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AndyMeng2017&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-- 🔭 I’m currently working on: JD
-- 📫 How to reach me: 707093428@qq.com
+- 🔭 I’m currently working on: 
+- 📫 How to reach me: 
 - 😄 Hobby: sk8，photo, music
 - 🤔 Wish: make film about life
 
